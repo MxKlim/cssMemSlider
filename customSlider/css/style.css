@@ -209,5 +209,8 @@ input {
         width: 0.8rem;
         height: 0.8rem;
     }
+    .label {
+   	 margin-right: 0.5rem;
+    }
 
 }
